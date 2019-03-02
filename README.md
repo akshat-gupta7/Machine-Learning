@@ -1,2 +1,1 @@
-# Machine-Learning
-Making deductions from the data is one of the most important task for any institution. In daily life MACHINE LEARNING is helping us to make deductions from the data which are too complex at the human level.
+Making deductions from the data is one of the most important task for any institution. In daily life MACHINE LEARNING is helping us to make deductions from the data which are too complex at the human level. This repository is for those people who want to start learning ML. I myself is a learner right now and I am currently learning it through a udemy course. I'll be providing all the python codes I'll be using and I'll be replacing outdated libraries with new ones that are compatible with python 3. 
